@@ -1,0 +1,7 @@
+.DS_Store
+build
+test
+obj
+packages
+theos
+.theos

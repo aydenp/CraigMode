@@ -1,0 +1,9 @@
+Package: applebetas.ios.tweak.craigmode
+Name: CraigMode
+Depends: mobilesubstrate, firmware (>= 11.0)
+Version: 0.1-beta
+Architecture: iphoneos-arm
+Description: Enable the internal SpringBoard settings menu on your device. To toggle CraigMode, press both volume buttons at the same time. This will enable volume controls for the menu. You can now press volume up to show the menu, and volume down to dismiss it. If you activate a test recipe, this will change to the ringer switch (as the volume buttons will now toggle your test recipe).
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tools
